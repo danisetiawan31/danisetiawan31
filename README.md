@@ -15,8 +15,7 @@ Day to day, I build with React, Next.js, and Tailwind on the frontend, and Larav
 <img src="https://skillicons.dev/icons?i=js,vite,php,express,prisma,mysql,postgres,supabase,py,nodejs,vue&theme=dark&perline=6" height="60"/>
 
 **Tools**  
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,jest&theme=dark" height="60"/>  
-<sub>+ Google Antigravity (belum ada icon resmi di skillicons.dev)</sub>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,jest&theme=dark" height="60"/>
 
 ---
 
