@@ -17,11 +17,11 @@
 
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.5s" fill="freeze"/>
-    <rect x="1014" y="28" width="158" height="38" rx="19" fill="#12314F" stroke="#2E5A82" stroke-width="1"/>
-    <circle cx="1035" cy="47" r="5" fill="#3ECF8E">
+    <rect x="960" y="28" width="160" height="38" rx="19" fill="#12314F" stroke="#2E5A82" stroke-width="1"/>
+    <circle cx="982" cy="47" r="5" fill="#3ECF8E">
       <animate attributeName="opacity" values="1;0.4;1" dur="1.8s" begin="0.9s" repeatCount="indefinite"/>
     </circle>
-    <text x="1050" y="52" font-family="Consolas, Menlo, monospace" font-size="14" fill="#F4F7FA" letter-spacing="0.5" textLength="106" lengthAdjust="spacingAndGlyphs">OPEN TO WORK</text>
+    <text x="998" y="52" font-family="Consolas, Menlo, monospace" font-size="14" fill="#F4F7FA" letter-spacing="0.5">OPEN TO WORK</text>
   </g>
 
   <text x="62" y="90" font-family="Consolas, Menlo, monospace" font-size="13" fill="#8CA3BD" letter-spacing="3" opacity="0">
