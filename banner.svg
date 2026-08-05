@@ -21,7 +21,7 @@
     <circle cx="1035" cy="47" r="5" fill="#3ECF8E">
       <animate attributeName="opacity" values="1;0.4;1" dur="1.8s" begin="0.9s" repeatCount="indefinite"/>
     </circle>
-    <text x="1050" y="52" font-family="Consolas, Menlo, monospace" font-size="14" fill="#F4F7FA" letter-spacing="0.5">OPEN TO WORK</text>
+    <text x="1050" y="52" font-family="Consolas, Menlo, monospace" font-size="14" fill="#F4F7FA" letter-spacing="0.5" textLength="106" lengthAdjust="spacingAndGlyphs">OPEN TO WORK</text>
   </g>
 
   <text x="62" y="90" font-family="Consolas, Menlo, monospace" font-size="13" fill="#8CA3BD" letter-spacing="3" opacity="0">
