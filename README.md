@@ -9,13 +9,13 @@ Day to day, I build with React, Next.js, and Tailwind on the frontend, and Larav
 ## 🧱 Tech Stack
 
 **Core Stack**  
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,laravel,nestjs&theme=dark" height="60"/>
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,laravel,nestjs&theme=dark" />
 
 **Other Stack**  
-<img src="https://skillicons.dev/icons?i=js,vite,php,express,prisma,mysql,postgres,supabase,py,nodejs,vue,angular,go&theme=dark&perline=7" height="60"/>
+<img src="https://skillicons.dev/icons?i=js,vite,php,express,prisma,mysql,postgres,supabase,py,nodejs,vue,angular,go&theme=dark&perline=7" />
 
 **Tools**  
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,jest,vitest&theme=dark" height="60"/> <img src="./playwright.svg" height="60"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,jest,vitest&theme=dark" /> <img src="./playwright.svg" />
 
 ---
 
