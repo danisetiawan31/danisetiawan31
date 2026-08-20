@@ -15,7 +15,7 @@ Day to day, I build with React, Next.js, and Tailwind on the frontend, and Larav
 <img src="https://skillicons.dev/icons?i=js,vite,php,express,prisma,mysql,postgres,supabase,py,nodejs,vue,angular,go&theme=dark&perline=7" />
 
 **Tools**  
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,jest,vitest&theme=dark" /> <img src="./playwright.svg" />
+<img src="./tools.svg" />
 
 ---
 
